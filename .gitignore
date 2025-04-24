@@ -1,0 +1,12 @@
+# .gitignore
+.venv/
+__pycache__/
+*.pyc
+data/*/*
+notebooks/.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Pycharm settings
+.idea/
